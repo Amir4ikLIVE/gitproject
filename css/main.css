@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #f794a4, #fbbac5);
+    color: #FFF;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
